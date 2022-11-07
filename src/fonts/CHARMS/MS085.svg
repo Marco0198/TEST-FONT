@@ -1,0 +1,18 @@
+<svg
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:mingh="http://www.minghworld.com"
+   width="300px"
+   height="300px" >
+	
+	 <g>
+		
+		<!-- Text Areas -->
+		<text id="txtOne" transform="matrix(1 0 0 1 150 50)" style="stroke:#000;stroke-width:0.25px;fill:none;font-family:z_ms085;font-size:20px;text-anchor:middle"></text> 
+		
+		<!-- Prism Reference -->
+		<cam mingh:cam="--verb EditSelectAll --verb SelectionUnGroup --verb SelectionUnGroup --verb EditSelectAll --verb SelectionUnion --verb ZoomSelection --verb SelectionGroup --verb FileSave " /> 
+	 </g>
+
+</svg>

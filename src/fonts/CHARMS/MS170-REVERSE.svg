@@ -1,0 +1,24 @@
+<svg
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:mingh="http://www.minghworld.com"
+   width="300px"
+   height="300px" >
+	
+	 <g>
+		
+		<!-- Paths -->
+		<path transform="matrix(-1 0 0 1 300 0)" style="fill:#ff0;stroke:none;"
+		 d="M 150.0,128.31 C 148.18,128.31 146.56,129.52 146.06,131.28 C 145.57,133.04 146.32,134.92 147.88,135.88 C 148.1,136.02 148.02,136.37 147.75,136.41 C 138.48,137.59 131.72,145.76 132.31,155.09 C 132.9,164.42 140.65,171.69 150.0,171.69 C 159.35,171.69 167.1,164.42 167.69,155.09 C 168.28,145.76 161.52,137.59 152.25,136.41 C 151.98,136.37 151.9,136.02 152.13,135.88 C 153.68,134.92 154.43,133.04 153.94,131.28 C 153.44,129.52 151.82,128.31 150.0,128.31 z M 150.0,130.44 C 151.08,130.44 151.94,131.33 151.94,132.41 C 151.94,133.48 151.08,134.34 150.0,134.34 C 148.92,134.34 148.06,133.48 148.06,132.41 C 148.06,131.33 148.92,130.44 150.0,130.44 z" />
+		
+		
+		<text id="txtTwo" transform="matrix(1 0 0 1 150 160)" style="stroke:none;fill:#f00;font-family:'Eras Medium ITC';font-size:20px;text-anchor:middle"  >
+
+		</text>
+		<!-- Prism Reference -->
+		<cam mingh:cam=" --verb EditSelectAll --verb ZoomSelection --verb FileSave"/> 
+
+	 </g>
+
+</svg>
